@@ -1,0 +1,165 @@
+return-connectors / audio video 1
+	3.5mm (2 contact / ts) (008) 1
+	3.5mm (3 contact / trs) (010) 3
+	3.5mm (4 contact / trrs) (012) 5
+	displayport (014) 7
+	dvi-d (dual link) (016) 9
+	hdmi type a (018) 11
+	hdmi type c (mini) (020) 13
+	hdmi type d (micro) (022) 15
+	mini displayport (024) 17
+	mini dvi (026) 19
+	s-video (028) 21
+	vga (030) 23
+connectors / usb 13
+	usb type micro-b 3.0 (032) 25
+	usb type micro-b (034) 27
+	usb type-a 2.0 (036) 29
+	usb type-a 3.0 (038) 31
+	usb type-b 2.0 (040) 33
+	usb type-b 3.0 (042) 35
+	usb type-mini-b 2.0 (044) 37
+	usb-c (046) 39
+connectors / miscellaneous 21
+	esata (048) 41
+	ethernet (rj45) (050) 43
+	firewire (052) 45
+	lightning cable (054) 47
+	phone line (rj11) (056) 49
+	ps/2 (058) 51
+	rs-232 serial (db25) (060) 53
+	rs-232 serial (db9) (062) 55
+memory / memory cards 29
+	compact flash (066) 57
+	memory stick pro duo (068) 59
+	micro sd card (070) 61
+	multimedia card (072) 63
+	sd card (074) 65
+	xd picture card (076) 67
+boards / adafruit 35
+	adafruit feather 32u4 adalogger (080) 69
+	adafruit feather 32u4 adalogger cont. (082) 71
+	adafruit feather 32u4 bluefruit le (084) 73
+	adafruit feather 32u4 bluefruit le cont. (086) 75
+	adafruit feather 32u4 fona (088) 77
+	adafruit feather 32u4 fona cont. (090) 79
+	adafruit feather 32u4 rfm69hcw packet radio (092) 81
+	adafruit feather 32u4 rfm69hcw packet radio cont. (094) 83
+	adafruit feather huzzah with esp8266 (096) 85
+	adafruit feather huzzah with esp8266 cont. (098) 87
+	adafruit feather m0 adalogger (100) 89
+	adafruit feather m0 adalogger cont. (102) 91
+	adafruit feather m0 basic proto (104) 93
+	adafruit feather m0 basic proto cont. (106) 95
+	adafruit feather m0 bluefruit le (108) 97
+	adafruit feather m0 bluefruit le cont. (110) 99
+	adafruit feather m0 rfm69hcw packet radio(112) 101
+	adafruit feather m0 rfm69hcw packet radio cont. (114) 103
+	adafruit metro mini 328 5v (116) 105
+	adafruit trinket 5v (118) 107
+boards / arduino 55
+	arduino due (120) 109
+	arduino due cont 1. (122) 111
+	arduino due cont 2. (124) 113
+	arduino leonardo (126) 115
+	arduino mega 2560 rev3 (128) 117
+	arduino mega 2560 rev3 cont 1. (130) 119
+	arduino mega 2560 rev3 cont 2. (132) 121
+	arduino micro (134) 123
+	arduino mkr 1000 wifi (136) 125
+	arduino mkr 1010 wifi (138) 127
+	arduino mkr fox 1200 (140) 129
+	arduino mkr gsm 1400 (142) 131
+	arduino mkr nb 1500 (144) 133
+	arduino mkr wan 1310 (146) 135
+	arduino mkr zero (148) 137
+	arduino nano 33 ble (150) 139
+	arduino nano 33 iot (152) 141
+	arduino nano every (154) 143
+	arduino nano (156) 145
+	arduino uno rev 3 (158) 147
+	arduino uno rev 3 cont. (160) 149
+boards / raspberry pi 76
+	raspberry pi 4 model b (162) 151
+	raspberry pi 3 model b+ (164) 153
+	raspberry pi 3 model a+ (166) 155
+	raspberry pi compute module 3+ (168) 157
+	raspberry pi compute module 3+ cont. (170) 159
+	raspberry pi compute module 3+ lite (172) 161
+	raspberry pi compute module 3+ lite cont. (174) 163
+	raspberry pi compute module 4 (& compute module 4 lite) (176) 165
+	raspberry pi compute module 4 (& compute module 4 lite) cont. (176) 167
+	raspberry pi pico (180) 169
+	raspberry pi zero (182) 171
+	raspberry pi zero w (184) 173
+	raspberry pi zero 2 w (186) 175
+boards / other dev boards 89
+	espruino pico (188) 177
+	espruino pico cont. (190) 179
+	espruino wifi (192) 181
+	ioio-otg v2.2 (194) 183
+	mbed lpc1768 (196) 185
+	nodemcu (198) 187
+	okdo e1 (200) 189
+	particle argon (202) 191
+	particle boron (204) 193
+	particle electron (206) 195
+	particle electron cont. (206) 197
+	particle photon (210) 199
+	sifive hifive1 rev b (212) 201
+	sparkfun pro micro (214) 203
+	sparkfun redboard (216) 205
+	sparkfun thing plus samd51 (218) 207
+boards / other sbcs 105
+	asus tinker board s (220) 209
+	asus tinker edge r (222) 211
+	asus tinker edge t (224) 213
+	banana pi m2 zero (226) 215
+	banana pi m4 (228) 217
+	bbc micro:bit v1 (230) 219
+	bbc micro:bit v2 (232) 221
+	beaglebone black rev c (234) 223
+	libre computer all-h3-cc (236) 225
+	libre computer aml-s905x-cc (238) 227
+	libre computer aml-s905x-cc (240) 229
+	libre computer roc-rk3328-cc (242) 231
+	nanopi duo2 (244) 233
+	nanopi fire3-lts (246) 235
+	nanopi m4 (248) 237
+	nanopi neo air-lts (250) 239
+	nanopi neo-lts (252) 241
+	odroid-c4 (254) 243
+	odroid-c4 cont. (256) 245
+	odroid-n2+ (258) 247
+	pine rock 64 (260) 249
+	pine rock 64 cont. (262) 251
+	pine rockpro 64 (264) 253
+	bc127 bluetooth smd module (266) 255
+boards / communications modules 129
+	esp32 s2 wrover module wi-fi module (268) 257
+	esp32 wroom 32d wifi bt module (270) 259
+	esp8266 smt module (esp-12f) (272) 261
+	ls20031 5hz (66 channel) gps receiver (274) 263
+	raytac nrf51822 bluetooth le module (276) 265
+	raytac nrf52832 bluetooth le module (278) 267
+	rn-42 (v6.15) bluetooth smd module (280) 269
+	sparkfun copernicus ii dip (12_channel) gps module (282) 271
+chips / microcontroller chips 137
+	atmega2560-16au (tqfp 100 pin) (286) 273
+	atmega32-16au (tqfp 44 pin) (288) 275
+	atmega32-16pu (pdip 40 pin) (290) 277
+	atmega328-au (tqfp 32 pin) (292) 279
+	atmega328-pu (spdip 28 pin) (294) 281
+	atsamd21g18a-au (tqfp 48 pin) (296) 283
+	attiny25-20ssu (soic 8 pin) (298) 285
+	attiny25v-20pu (pdip 8 pin) (300) 287
+	attiny45-20pu (pdip 8 pin) (302) 289
+	attiny45-20su (soic 8 pin) (304) 291
+	attiny45-20xu (tssop 8 pin) (306) 293
+	attiny85-20pu (pdip 8 pin) (308) 295
+	attiny85-20su (soic 8 pin) (310) 297
+	picaxe 08m2 (8 pin) (312) 299
+	picaxe 14m2 (14 pin) (314) 301
+	picaxe 18m2+ (18 pin) (316) 303
+description 305
+license 306
